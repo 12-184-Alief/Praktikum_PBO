@@ -1,3 +1,7 @@
+# Mohd.Musyaffa Alief Athallah
+# 123140184
+# Praktikum PBO RA
+
 # Definisikan kelas Robot yang akan menjadi kelas induk untuk semua jenis robot
 class Robot:
     # Inisialisasi atribut-atribut robot seperti nama, serangan, dan HP
