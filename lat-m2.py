@@ -1,3 +1,7 @@
+# Mohd.Musyaffa Alief Athallah
+# 123140184
+# Praktikum PBO RA
+
 class Kendaraan:
     def __init__(self, jenis, kecepatan_maksimum):
         self.jenis = jenis
